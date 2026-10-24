@@ -1,0 +1,1 @@
+import{R as e,ht as t,j as n,w as r,y as i}from"./modules/shiki-BuTcZIX6.js";import{it as a}from"./index-DCqcZ4xD.js";var o=[`src`],s=r({__name:`BaseImg`,props:{src:{}},setup(r){let{$slidev:s,$nav:c,$clicksContext:l,$clicks:u,$page:d,$renderContext:f,$frontmatter:p}=a();return(a,s)=>(e(),i(`img`,n({src:`${t(`/pybeach-2026/`)}${r.src}`},a.$attrs),null,16,o))}});export{s as t};
